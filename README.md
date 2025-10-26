@@ -3,7 +3,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="head.png" alt="AdventureWorks Database Analysis Project" width="800"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*T-P1WsT8iDNMz6Io4mVxLg.png" alt="AdventureWorks Database Analysis Project" width="800"/>
 </p>
 
 **A comprehensive business intelligence dashboard analyzing sales, products, and operational metrics**
